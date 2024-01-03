@@ -1,1 +1,2 @@
-console.log("hello world")
+let helloWorld = "console log"
+console.log(helloWorld)
